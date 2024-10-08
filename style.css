@@ -1,0 +1,122 @@
+h1{
+    background-image: url(https://miro.medium.com/v2/resize:fit:1400/1*JHbpPa0TugDyymxEWgdYVA.jpeg);
+    font-family: 'Covered By Your Grace';
+    font-style: normal;
+    font-weight: 400px;
+    text-align: center;
+    font-size: 79px;
+    height: 400px;
+    color: #53363a;
+}
+
+
+h3{
+    font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 200;
+  text-align: center;
+  font-size: x-large;
+  color: #41292c;
+}
+p{
+    color: #98938e;
+}
+ul li{
+    color: #e3bb97;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 1px;
+    text-decoration: none;
+    list-style: none;
+    
+}
+a{
+    color: #305940;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.container{
+    padding: 60px;
+    background-color: #efe9e2
+}
+
+
+.green{
+    background-color: #99c39a;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.light{
+    background-color: #a96342;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.city{
+    background-color: #96582e;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.vienna{
+    background-color: #af4040;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.italian{
+    background-color: #191919;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+
+h5{
+    color: #ffffff;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+}
+
+h4{
+    color: #ffffff;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+}
+
+h2{
+    font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+}
+
+hr{
+    color: #f5dac1
+}
+
+.roasting{
+    background-color: white;
+    padding: 100px;
+    color: #98938e;
+    font-size: 20px;
+}
